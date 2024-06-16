@@ -1,0 +1,5 @@
+Default AdminPasswd 0
+MadKat notARealPassword 300
+Scooby DoobyDoo 100
+
+Tiger bear 0
